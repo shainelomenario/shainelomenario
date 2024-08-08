@@ -1,10 +1,20 @@
 <img src = "https://github.com/shainelomenario/shainelomenario/blob/main/git-banner2.gif" width = "1700" alt = "repo-banner">
 
+
 <p align = "center">
-  <a href = "shainelomenario.me" target = "_blank"> Portfolio Website </a>  ||
-  <a href = "https://www.linkedin.com/in/shaine-lomenario-955168216/" target = "_blank"> LinkedIn </a>  ||
+Hello, I've started making personal projects on my free time and I look forward to gaining more experience!
+</p>
+
+
+
+<p align = "center">
+  Socials -->
+  <a href = "shainelomenario.me" target = "_blank"> Portfolio Website </a>  -
+  <a href = "https://www.linkedin.com/in/shaine-lomenario-955168216/" target = "_blank"> LinkedIn </a>  -
   <a href = "https://www.youtube.com/@LomeTech-os8oc" target = "_blank"> YouTube </a>
 </p>
+
+
 
 
 
