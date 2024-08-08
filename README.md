@@ -1,7 +1,7 @@
 <img src = "https://github.com/shainelomenario/shainelomenario/blob/main/git-banner2.gif" width = "1700" alt = "repo-banner">
 
 <p align = "center">
-  <a href = "https://shainelomenario.github.io/landing-page/" target = "_blank"> Portfolio Website </a>  ||
+  <a href = "shainelomenario.me" target = "_blank"> Portfolio Website </a>  ||
   <a href = "https://www.linkedin.com/in/shaine-lomenario-955168216/" target = "_blank"> LinkedIn </a>  ||
   <a href = "https://www.youtube.com/@LomeTech-os8oc" target = "_blank"> YouTube </a>
 </p>
