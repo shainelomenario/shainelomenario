@@ -1,3 +1,5 @@
+<img src = "https://github.com/shainelomenario/shainelomenario/blob/main/git-banner2.gif" width = "1700" alt = "repo-banner">
+
 ## Hi there 👋
 
 <!--
