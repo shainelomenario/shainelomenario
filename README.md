@@ -9,7 +9,7 @@ Hello, I've started making personal projects on my free time and I look forward 
 
 <p align = "center">
   Socials -->
-  <a href = "shainelomenario.me" target = "_blank"> Portfolio Website </a>  -
+  <a href = "https://shainelomenario.me" target = "_blank"> Portfolio Website </a>  -
   <a href = "https://www.linkedin.com/in/shaine-lomenario-955168216/" target = "_blank"> LinkedIn </a>  -
   <a href = "https://www.youtube.com/@LomeTech-os8oc" target = "_blank"> YouTube </a>
 </p>
